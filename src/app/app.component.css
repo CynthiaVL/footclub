@@ -5,3 +5,22 @@
   margin: 0;
   text-align: center;
 }
+
+.link{
+  background-color: rgb(60, 161, 60);
+  display: flex;
+  justify-content: space-evenly;
+  padding: 15px;
+}
+
+button{
+  padding: 10px;
+  border: 2px solid rgb(174, 4, 4);
+  border-radius: 50%;
+  background-color: rgb(60, 161, 60);
+}
+
+a{
+  text-decoration: solid;
+  color: rgb(174, 4, 4);
+}
