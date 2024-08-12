@@ -1,10 +1,35 @@
-.html {
-  border: 10px solid black;
+.description-club, .actuality-club {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-bottom: 10px solid #A5D81F;
+  h2{
+    color: #A5D81F;
+  }
 }
 
-.description-club {
+.evenement-club {
+  padding-top: 75px;
+  padding-bottom: 75px;
   text-align: center;
+  background-color: white;
+  color: black;
+  border-bottom: 10px solid #A5D81F;
   h2{
-    color: rgb(60, 161, 60);
+    color: black;
   }
+}
+
+button{
+  padding: 10px;
+  border: 2px solid #A5D81F;
+  border-radius: 50%;
+  background-color: black;
+}
+
+a{
+  text-decoration: solid;
+  color: #A5D81F;
 }

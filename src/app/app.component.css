@@ -1,17 +1,14 @@
-.html {
-  border: 10px solid black;
-}
-
-.welcome{
-  background-color: rgb(60, 161, 60);
-  color: black;
+.nav{
+  background-color: black;
+  color: #A5D81F;
   padding: 5px;
   margin: 0;
   text-align: center;
+  border-bottom: 10px solid #A5D81F;
 }
 
 .link{
-  background-color: rgb(60, 161, 60);
+  background-color: black;
   display: flex;
   justify-content: space-evenly;
   padding: 15px;
@@ -19,12 +16,18 @@
 
 button{
   padding: 10px;
-  border: 2px solid black;
   border-radius: 50%;
-  background-color: rgb(60, 161, 60);
+  background-color: #A5D81F;
 }
 
 a{
   text-decoration: solid;
-  color: black;
+  color: white;
 }
+
+button :visited :hover {
+  color: #A5D81F;
+}
+
+
+
