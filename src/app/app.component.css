@@ -1,6 +1,10 @@
+.html {
+  border: 10px solid black;
+}
+
 .welcome{
   background-color: rgb(60, 161, 60);
-  color: rgb(174, 4, 4);
+  color: black;
   padding: 5px;
   margin: 0;
   text-align: center;
@@ -15,12 +19,12 @@
 
 button{
   padding: 10px;
-  border: 2px solid rgb(174, 4, 4);
+  border: 2px solid black;
   border-radius: 50%;
   background-color: rgb(60, 161, 60);
 }
 
 a{
   text-decoration: solid;
-  color: rgb(174, 4, 4);
+  color: black;
 }

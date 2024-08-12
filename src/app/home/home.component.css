@@ -1,0 +1,10 @@
+.html {
+  border: 10px solid black;
+}
+
+.description-club {
+  text-align: center;
+  h2{
+    color: rgb(60, 161, 60);
+  }
+}
